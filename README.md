@@ -1,3 +1,3 @@
-# matomo-event-push
+# Matomo Tracking Client
 Matomo JavaScript Tracking Client
 
